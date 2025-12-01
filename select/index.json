@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "歌いましょう鳴らしましょう",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T03:08:04.651024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歌いましょう鳴らしましょう",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_歌いましょう鳴らしましょう_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歌いましょう鳴らしましょう",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/02_歌いましょう鳴らしましょう_MyGO!!!!!.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "歌いましょう鳴らしましょう",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_歌いましょう鳴らしましょう_MyGO!!!!!.txt"
+    }
+  ]
+}
